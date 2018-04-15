@@ -6,3 +6,6 @@ h1 {
   color: Red;
   background-color: Green;
 }
+p {
+  font-weight: bold; 
+}
