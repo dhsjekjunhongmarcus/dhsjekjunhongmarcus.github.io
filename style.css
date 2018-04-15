@@ -1,9 +1,7 @@
-h1,
-h2,
-p,
-ul {
+h2 {
 background-color: Blue;
 }
 h1 {
   color: teal;
+  background-color: Green;
 }
