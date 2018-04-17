@@ -1,11 +1,17 @@
 h2 {
-background-color: Blue;
   color: Yellow;
 }
 h1 {
   color: Red;
-  background-color: Green;
 }
 p {
   font-weight: bold; 
+}
+html {
+  background-color: #3366ff;
+}
+h2,
+h1,
+p {
+  font-family: Verdana;
 }
