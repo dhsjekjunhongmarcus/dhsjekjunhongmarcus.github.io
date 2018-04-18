@@ -1,11 +1,12 @@
 h2 {
-  color: Yellow;
+  color: #0066ff;
 }
 h1 {
   color: Red;
 }
-p {
-  font-weight: bold; 
+ul {
+  font-weight: bold;
+  font-family: Times New Roman;
 }
 html {
   background-color: #99ff33;
